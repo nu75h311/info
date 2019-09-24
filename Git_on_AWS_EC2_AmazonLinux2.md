@@ -1,4 +1,4 @@
 # Git on AWS EC2 (Amazon Linux 2)
 
-2. Install:  
+1. Install:  
     `sudo yum install -y git`  
