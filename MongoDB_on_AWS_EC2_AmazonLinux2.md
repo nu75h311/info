@@ -9,7 +9,11 @@
 
 3. Run:  
    `sudo service mongod start`  
-   `sudo service mongod status`
+   `sudo service mongod status`  
+
+   By default, MongoDB instance stores:  
+   - its data files in `/var/lib/mongo`  
+   - its log files in `/var/log/mongodb`  
 
 4. Stop:  
    `sudo service mongod stop`
